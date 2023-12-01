@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_18);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_18" data-name="Dégradé sans nom 18" x1="-4.13" y1="6.01" x2="38.01" y2="56.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  <g id="Calque_187_-_copie" data-name="Calque 187 - copie">
+    <g id="Calque_4_-_copie" data-name="Calque 4 - copie">
+      <path class="cls-1" d="m29.64,0H5.5C2.96,0,0,1.59,0,3.9v53.98c0,2.32,2.96,5.12,5.5,5.12h23.13c2.54,0,4.36-2.8,4.36-5.12V3.9c0-2.32-.82-3.9-3.36-3.9Zm-15.88,4h6c.83,0,1.5.67,1.5,1.5s-.67,1.5-1.5,1.5h-6c-.83,0-1.5-.67-1.5-1.5s.67-1.5,1.5-1.5Zm-6.56,54.69c-.61,0-1.11-.5-1.11-1.11s.5-1.11,1.11-1.11,1.11.5,1.11,1.11-.5,1.11-1.11,1.11Zm9.87,1.14c-1.18,0-2.13-.95-2.13-2.13s.95-2.13,2.13-2.13,2.13.95,2.13,2.13-.96,2.13-2.13,2.13Zm9.82-1.14c-.61,0-1.11-.5-1.11-1.11s.5-1.11,1.11-1.11,1.11.5,1.11,1.11-.5,1.11-1.11,1.11Zm4.12-5.69H2V10h29v43Z"/>
+    </g>
+  </g>
+</svg>

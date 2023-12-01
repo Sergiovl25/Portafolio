@@ -1,0 +1,8 @@
+.space-y-3 {
+  padding: 2rem;
+  background-color: rgba(12, 7, 5, 0.6);
+}
+
+input, textarea {
+  color: black;
+}
